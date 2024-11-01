@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Syntax Highlighter to Pastacode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-29 14:06+0000\n"
+"PO-Revision-Date: 2016-08-29 14:06+0000\n"
+"Last-Translator: labo <willy@wabeo.fr>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Syntax Highlighter Evolved to Pastacode"
+msgstr "Syntax Highlighter Evolved vers Pastacode"
+
+#. URI of the plugin
+msgid "http://pastacode.wabeo.fr"
+msgstr ""
+
+#. Author of the plugin
+msgid "Willy Bahuaud"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wabeo.fr"
+msgstr ""
+
+#: syntaxhighlighter-to-pastacode.php:29 syntaxhighlighter-to-pastacode.php:39
+msgid "Migrate from Syntax Highlighter Evolved to Pastacode"
+msgstr "Migrer de Syntax Highlighter Evolved vers Pastacode"
+
+#: syntaxhighlighter-to-pastacode.php:29
+msgid "Migrate to Pastacode"
+msgstr "Migrer vers Pastacode"
+
+#: syntaxhighlighter-to-pastacode.php:43
+msgid "Detect and replace old shortcodes"
+msgstr "Trouve et remplace les codes courts"
+
+#: syntaxhighlighter-to-pastacode.php:44
+msgid "The operation is reversible"
+msgstr "L'opération peut-être inversée"
+
+#: syntaxhighlighter-to-pastacode.php:50
+msgid "Validate the conversion and remove the logs and backups"
+msgstr "Valider l'opération, supprimer les journaux et les sauvegardes"
+
+#: syntaxhighlighter-to-pastacode.php:118
+msgid "[%1$s] %2$s : old shortcodes restored."
+msgstr "[%1$s] %2$s : Anciens codes courts restaurés."
+
+#: syntaxhighlighter-to-pastacode.php:207
+msgid "Verify"
+msgstr "Vérifier"
+
+#: syntaxhighlighter-to-pastacode.php:208
+msgid "Restore"
+msgstr "Restaurer"
+
+#: syntaxhighlighter-to-pastacode.php:214
+msgid "[%1$s] %2$s : shortcodes [%3$s] finds and replaced. %4$s"
+msgstr "[%1$s] %2$s : codes courts [%3$s] trouvés et remplacés. %4$s"
+
+#: syntaxhighlighter-to-pastacode.php:216
+msgid "[%1$s] %2$s : shortcodes [%3$s] find, but update failed. %4$s"
+msgstr ""
+"[%1$s] %2$s : codes courts [%3$s] trouvés, mais échec de la conversion. %4$s"
+
+#: syntaxhighlighter-to-pastacode.php:221
+msgid "[%1$s] %2$s : no shortcode need to be converted."
+msgstr "[%1$s] %2$s : aucun code court trouvé."
+
+#. Description of the plugin
+msgid ""
+"The only use of this plugin is to convert SyntaxHighliterEvolved's "
+"shortcodes into Pastacode's Shortcodes."
+msgstr ""
+"La seule utilité du plugin est de transformer les codes courts de "
+"SyntaxHighlighter Evolved en codes courts pour pastacode."
